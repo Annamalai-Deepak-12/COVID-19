@@ -1,0 +1,13 @@
+body{
+  background-color:antiquewhite;
+}
+
+#country{
+  margin: 20px;
+}
+#death,#confirm,#active{
+  margin: 20px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
